@@ -1,0 +1,14 @@
+.center{
+    text-align: center;
+}
+
+.container{
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.padding-30{
+    padding: 30px;
+}
